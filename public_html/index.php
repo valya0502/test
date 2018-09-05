@@ -241,6 +241,8 @@
 				</div>
 			</div>
 		</footer>
+
+		<a href="#" class="scrollup"><i class="icon-angle-up"></i></a>
 	
 </body>
 
