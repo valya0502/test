@@ -40,13 +40,13 @@
 					        <div class="burger-line third"></div>
 					        <div class="burger-line fourth"></div>
 					        <nav class="main-menu">
-					            <a href="#" class="burger_menu_active">HOME</a>
-					            <a href="#">ABOUT US</a>
-					            <a href="#">PORTFOLIO</a>
-					            <a href="#">PRICING</a>
-					            <a href="#">TEAM</a>
-					            <a href="#">BLOG</a>
-					            <a href="#">CONTACT</a>
+					            <a href="#!" class="burger_menu_active">HOME</a>
+					            <a href="#!">ABOUT US</a>
+					            <a href="#!">PORTFOLIO</a>
+					            <a href="#!">PRICING</a>
+					            <a href="#!">TEAM</a>
+					            <a href="#!">BLOG</a>
+					            <a href="#!">CONTACT</a>
 					        </nav>
 					    </div>
 				
@@ -213,7 +213,7 @@
 					<div class="col-12 text-center">
 						<h2>Let's Get Started Now. It's FREE!</h2>
 						<p>30 day free trial. Free plan allows up to 2 projects. Pay if you need more. Cancel anytime. No catches.</p>
-						<a href="javascript:void(0)" class="btn_style">start free trial</a>
+						<a href="#!" class="btn_style">start free trial</a>
 					</div>
 				</div>
 			</div>
@@ -224,14 +224,14 @@
 					<div class="col-lg-4 col-md-4 col-sm-6 col-12 p-0">
 						<nav class="footer__social">
 							<ul>
-								<li><a href="javascript:void(0)" class="icon-facebook"></a></li>
-								<li><a href="javascript:void(0)" class="icon-twitter"></a></li>
-								<li><a href="javascript:void(0)" class="icon-rss"></a></li>
-								<li><a href="javascript:void(0)" class="icon-google-plus"></a></li>
-								<li><a href="javascript:void(0)" class="icon-linkedin"></a></li>
-								<li><a href="javascript:void(0)" class="icon-skype"></a></li>
-								<li><a href="javascript:void(0)" class="v_social fab fa-vimeo-v"></a></li>
-								<li><a href="javascript:void(0)" class="icon-tumblr"></a></li>
+								<li><a href="#!" class="icon-facebook"></a></li>
+								<li><a href="#!" class="icon-twitter"></a></li>
+								<li><a href="#!" class="icon-rss"></a></li>
+								<li><a href="#!" class="icon-google-plus"></a></li>
+								<li><a href="#!" class="icon-linkedin"></a></li>
+								<li><a href="#!" class="icon-skype"></a></li>
+								<li><a href="#!" class="v_social fab fa-vimeo-v"></a></li>
+								<li><a href="#!" class="icon-tumblr"></a></li>
 							</ul>
 						</nav>
 					</div>
@@ -242,7 +242,7 @@
 			</div>
 		</footer>
 
-		<a href="#" class="scrollup"><i class="icon-angle-up"></i></a>
+		<a href="#!" class="scrollup"><i class="icon-angle-up"></i></a>
 	
 </body>
 
